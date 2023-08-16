@@ -18,7 +18,7 @@ A continuación, encontrarás un listado de nuestros proyectos más destacados:
 
 ¡Nos encanta colaborar! Si quieres aportar a alguno de nuestros proyectos, revisa las guías de contribución en cada repositorio.
 
-## 🤓☝️¿Quiénes somos? 
+## ☝️🤓¿Quiénes somos? 
 
 | Nombre              | Rol                                      | Descripción                                                      | SuperPoderes                                               |
 |---------------------|------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------|
